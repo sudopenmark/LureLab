@@ -1,0 +1,2 @@
+# LureLab uses Python standard-library modules.
+# Tkinter may need to be installed separately on some Linux distributions.
